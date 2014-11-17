@@ -3,10 +3,10 @@
 xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "fi.metropolia.markovah"
 versionCode="1"
-version = "1.0.0">
-<name>lab1</name>
+version = "1.0.1">
+<name>Real time web-analytics monitor</name>
 <description>
-my first app
+Mobile Web Technologies TI00AC23-3002
 </description>
 <author href="http://users.metropolia.fi/~markovah" email="markovah@metropolia.fi">
 Markovah
